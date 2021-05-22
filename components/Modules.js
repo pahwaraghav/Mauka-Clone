@@ -36,7 +36,7 @@ export default function AboutMauka() {
         </Tag>
       </Center>
       <Grid templateColumns="repeat(12, 1fr)" gap={4} width="100%">
-        <GridItem colSpan={[12, 3]}>
+        <GridItem colSpan={[12, 6, 6, 3]}>
           <Box
             bg="white"
             borderRadius="2xl"
@@ -59,7 +59,7 @@ export default function AboutMauka() {
             </Button>
           </Box>
         </GridItem>
-        <GridItem colSpan={[12, 3]}>
+        <GridItem colSpan={[12, 6, 6, 3]}>
           <Box
             bg="white"
             height="400px"
@@ -84,7 +84,7 @@ export default function AboutMauka() {
             </Button>
           </Box>
         </GridItem>
-        <GridItem colSpan={[12, 3]}>
+        <GridItem colSpan={[12, 6, 6, 3]}>
           <Box
             bg="white"
             borderRadius="2xl"
@@ -108,7 +108,7 @@ export default function AboutMauka() {
             </Button>
           </Box>
         </GridItem>
-        <GridItem colSpan={[12, 3]}>
+        <GridItem colSpan={[12, 6, 6, 3]}>
           <Box
             bg="white"
             borderRadius="2xl"
